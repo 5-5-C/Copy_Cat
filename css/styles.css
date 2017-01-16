@@ -1,0 +1,126 @@
+html {
+  font-size: 1.2em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+body {
+  margin:0;
+  padding: 0;
+}
+
+.topheader {
+  background-color: #06D6A0;
+  position: relative;
+  overflow: hidden;
+}
+
+.shop-title {
+  float: left;
+  color: white;
+  text-align: left;
+  font-size: 18px;
+  margin: 0;
+  line-height: 60px;
+  padding-left: 20px;
+}
+
+ul {
+  display: block;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav {
+  float: right;
+  line-height: 60px
+}
+
+.nav-item {
+  display: inline-block;
+  padding-right: 20px;
+}
+
+.container {
+  margin: auto;
+  max-width: 900px;
+}
+
+.meowcome {
+overflow: hidden;
+background-color: #26547C;
+color: white;
+}
+
+img {
+max-width: 100%;
+max-height: 100%;
+}
+
+.main-image {
+float: left;
+width: 60%;
+
+}
+.meowcome-content {
+text-align: center;
+}
+
+.cats-content {
+background-color: #FFD166;
+padding:30px 20px;
+}
+
+.products {
+background-color: #F2F2F2;
+padding: 30px 20px;
+}
+
+.product-photos {
+overflow: hidden;
+}
+
+ul {
+list-style-type: none;
+}
+
+.cat-photos {
+float: left;
+width:30%;
+padding: 10px;
+}
+
+.cat-photos img {
+border:3px solid black;
+}
+
+.about {
+background-color: #26547C;
+color: white;
+padding: 20px;
+}
+
+.fvm {
+overflow:hidden;
+}
+
+.nameplates {
+text-transform: uppercase;
+color:red;
+float: left;
+width: 33.33%;
+text-align: center;
+}
+
+.bottom {
+overflow: hidden;
+background-color: #06D6A0;
+padding: 20px;
+}
+.meow {
+background-color: #06D6A0;
+text-align: right;
+height: 50px;
+padding: 0 20px;
+line-height: 50px;
+}
